@@ -1,0 +1,22 @@
+.btn-primary {
+  padding: 10px 10px;
+  border: none;
+}
+
+.btn-success {
+  padding: 5px 10px;
+  background-color: darksalmon;
+  border: none;
+}
+
+.img-thumbnail {
+    margin:25px;
+    width:85%;
+    height:85%;
+}
+
+.card-body {
+    padding: 10px 15px;
+    background-color: floralwhite;
+    border-top: none;
+}
